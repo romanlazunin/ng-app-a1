@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NgAppA1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
@@ -29,4 +28,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # ng-app-a1
 CV application, angular
->>>>>>> d94054f6c95ce4361898876c4b3d3a25c286d512
